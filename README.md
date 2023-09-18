@@ -15,6 +15,7 @@ Created it outta fun and to test my basic knowledge of javascript.
 **<h3>FEATURES</h3>**
 - Word falling animation
 - Score tracking
+- Scoreboard 
 - Game over screen
 - Start and restart buttons
 
