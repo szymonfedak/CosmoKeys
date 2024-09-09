@@ -3,7 +3,7 @@
 **<h3>PROJECT DESCRIPTION</h3>**
 
 Simple typing game where the user has to finish the word before it reaches the bottom. 
-Created it outta fun and to test my basic knowledge of javascript.
+Created it out of fun and to test my basic knowledge of javascript.
 
 **<h3>DEMO</h3>**
 
